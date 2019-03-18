@@ -1,4 +1,4 @@
-# GoogleScholar-WebScraping-Using-Free-VPN
+# GoogleScholar-WebScraping-Using-VPN
 Since Google Scholar doesn’t provide any API  this Script can be used to Web scrap Google Scholar to get Citations and Authors for a Published paper. Here we are providing the papers from DBLP website. By using free VPN, this program overcomes the google captcha .The program works in the following way
 1. Importing Packages 
 2. Getting published papers from DBLP website for a provided link
